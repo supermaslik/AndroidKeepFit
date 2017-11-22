@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#39daad</color>
+    <color name="Bg">#e4cfece7</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#485955</color>
+    <color name="myc">#9e9e9e</color>
+    <color name="myc2">#e2e2e2</color>
+    <color name="myc3">#ffffff</color>
+    <color name="myc4">#ffffff</color>
+    <color name="myc5">#ffffff</color>
+    <color name="in_menu">#e1e1e1</color>
+    <color name="log_bg">#b9b9b9</color>
+</resources>
